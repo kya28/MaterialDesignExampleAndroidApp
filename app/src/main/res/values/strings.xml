@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppUsingMaterialDesing</string>
+    <string name="app_bars_top">app_bars_top</string>
+    <string name="bottom_navigation">bottom_navigation</string>
+    <string name="cards">cards</string>
+    <string name="dialogs">dialogs</string>
+    <string name="navigation_drawer">navigation_drawer</string>
+    <string name="search_">search_</string>
+    <string name="help">help</string>
+    <string name="login">login</string>
+    <string name="alarm">alarm</string>
+    <string name="clock">clock</string>
+    <string name="timer">timer</string>
+    <string name="stopwatch">stopwatch</string>
+</resources>
